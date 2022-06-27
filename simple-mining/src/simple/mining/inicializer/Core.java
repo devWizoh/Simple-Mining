@@ -1,4 +1,4 @@
-package simple.mining.blocks;
+package simple.mining.inicializer;
 
 import simple.mining.mine.*;
 import simple.mining.mines.*;
